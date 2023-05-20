@@ -1,0 +1,42 @@
+.list-items {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.history-items {
+  display: flex;
+  margin: 15px;
+}
+
+.time {
+  color: #64748b;
+  font-size: 15px;
+}
+
+.title {
+  color: #64748b;
+  font-weight: 700;
+  margin-left: 15px;
+}
+
+.logo {
+  width: 43px;
+  height: 50px;
+
+  margin-left: 25px;
+}
+
+.domain {
+  color: #475569;
+  font-size: 15px;
+  margin-left: 15px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  padding-right: 20px;
+  cursor: pointer;
+}
